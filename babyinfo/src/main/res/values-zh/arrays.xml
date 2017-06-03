@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>相册</item>
+        <item>摄像</item>
+    </string-array>
+</resources>

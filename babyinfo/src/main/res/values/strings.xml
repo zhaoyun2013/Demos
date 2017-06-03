@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Baby Info</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_birthday">Edit Birthday</string>
+    <string name="select_photos">Select Photos</string>
+    <string name="album">Album</string>
+    <string name="camera">Camera</string>
+    <string name="alert_dialog_ok">ok</string>
+    <string name="alert_dialog_cancel">cancel</string>
+    <string name="text_title_name">name:</string>
+    <string name="text_title_birthday">birthday:</string>
+    <string name="text_title_constellation">constellation:</string>
+    <string name="text_title_distance_times">The baby was born %1$s ago!</string>
+    <string name="sd_error">Please make sure the SD card is inserted!</string>
+    <string name="days">&#160;days&#160;</string>
+    <string name="hours">&#160;hours&#160;</string>
+    <string name="minutes">&#160;minutes&#160;</string>
+    <string name="seconds">&#160;seconds&#160;</string>
+    <!-- 12星座 -->
+    <string name="Aries">Aries</string>
+    <!--Aries 牡羊 Mar. 21 - April 19-->
+    <string name="Taurus">Taurus</string>
+    <!--Taurus 金牛 April 20 - May 20-->
+    <string name="Gemini">Gemini</string>
+    <!--Gemini 双子 May 21 - June 21-->
+    <string name="Cancer">Cancer</string>
+    <!--Cancer 巨蟹June 22 - July 22-->
+    <string name="Leo">Leo</string>
+    <!--Leo 狮子July 23 - Aug. 22-->
+    <string name="Virgo">v</string>
+    <!--Virgo 处女 Aug. 23 - Sept. 22-->
+    <string name="Libra">Libra</string>
+    <!--Libra 天秤 Sept. 23 - Oct. 23-->
+    <string name="Scorpio">Scorpio</string>
+    <!--Scorpio 天蝎 Oct. 24 - Nov. 21-->
+    <string name="Sagittarius">Sagittarius</string>
+    <!--Sagittarius 射手 Nov. 22 - Dec. 21-->
+    <string name="Capricorn">Capricorn</string>
+    <!--Capricorn 摩羯 Dec. 22 - Jan. 19-->
+    <string name="Aquarius">Aquarius</string>
+    <!--Aquarius 水瓶 Jan. 20 - Feb. 18-->
+    <string name="Pisces">Pisces</string>
+    <!--Pisces 双鱼 Feb. 19 - Mar. 20-->
+</resources>

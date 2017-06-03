@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIDemos23/APIDemos23.iml" filepath="$PROJECT_DIR$/APIDemos23/APIDemos23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babyinfo/babyinfo.iml" filepath="$PROJECT_DIR$/babyinfo/babyinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidumapdemo/baidumapdemo.iml" filepath="$PROJECT_DIR$/baidumapdemo/baidumapdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fangqq/fangqq.iml" filepath="$PROJECT_DIR$/fangqq/fangqq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryUtils/libraryUtils.iml" filepath="$PROJECT_DIR$/libraryUtils/libraryUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryUtilsDemo/libraryUtilsDemo.iml" filepath="$PROJECT_DIR$/libraryUtilsDemo/libraryUtilsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liteormdemo/liteormdemo.iml" filepath="$PROJECT_DIR$/liteormdemo/liteormdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twaver/twaver.iml" filepath="$PROJECT_DIR$/twaver/twaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpage_fragment_lazyload/viewpage_fragment_lazyload.iml" filepath="$PROJECT_DIR$/viewpage_fragment_lazyload/viewpage_fragment_lazyload.iml" />
+    </modules>
+  </component>
+</project>

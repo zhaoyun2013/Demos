@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="audioColorPrimary">#3F51B5</color>
+    <color name="audioColorPrimaryDark">#303F9F</color>
+    <color name="audioColorAccent">#FF4081</color>
+    <color name="audioColorGray">#33000000</color>
+</resources>

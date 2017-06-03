@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#212527">
+
+    <com.zhaoyun.utils.video.MovieRecorderView
+        android:id="@+id/movierecordview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:id="@+id/endview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00ffffff"
+        android:layout_gravity="bottom"
+        android:gravity="bottom" >
+
+        <LinearLayout
+            android:id="@+id/lyUpCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/imgArrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/video_up_cancle" />
+
+            <TextView
+                android:id="@+id/tvCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="上移取消"
+                android:textColor="#ffffff"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lyUpCancel"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <com.zhaoyun.utils.video.RoundProgressBar
+                android:id="@+id/tvRec"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginBottom="20dp"
+                app:smallRoundColor="@android:color/white"
+                app:roundColor="@android:color/white"
+                app:roundProgressColor="@android:color/holo_green_light"
+                app:textIsDisplayable="false"
+                app:roundWidth="5dip" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>
